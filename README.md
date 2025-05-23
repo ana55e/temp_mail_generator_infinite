@@ -17,8 +17,8 @@ A Python-based application for managing temporary email accounts with GUI interf
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/temporary-email-client.git
-cd temporary-email-client
+git clone https://github.com/yourusername/temp_mail_generator_infinite.git
+cd temp_mail_generator_infinite
 ```
 
 2. Install requirements:
