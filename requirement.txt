@@ -1,6 +1,6 @@
 requests
 pandas
-mariadb-connector-python
+mariadb
 gradio
 sqlalchemy
 python-dotenv
