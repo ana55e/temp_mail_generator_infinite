@@ -1,0 +1,7 @@
+requests
+pandas
+mariadb-connector-python
+gradio
+sqlalchemy
+python-dotenv
+python-dateutil
