@@ -96,7 +96,7 @@ Apache 2.0
 ```
 
 
-**4. Environment Setup Recommendations**
+4. Environment Setup Recommendations
 
 1. Recommended Python version: 3.8+
 2. MariaDB server should be running locally
