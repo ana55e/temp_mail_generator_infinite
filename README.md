@@ -93,10 +93,9 @@ Apache 2.0
 - Mail.tm API for temporary email services
 - Gradio for UI components
 - MariaDB for database storage
-```
 
 
-4. Environment Setup Recommendations
+**4. Environment Setup Recommendations**
 
 1. Recommended Python version: 3.8+
 2. MariaDB server should be running locally
